@@ -1,1 +1,1 @@
-from mhd_api import *
+from mhd_api import mhd
