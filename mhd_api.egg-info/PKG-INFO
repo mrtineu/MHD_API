@@ -1,9 +1,9 @@
 Metadata-Version: 2.1
 Name: mhd-api
-Version: 0.1
+Version: 0.2
 Summary: Used to get data about Bratislava MHD
 Home-page: https://github.com/mrtineu
-Download-URL: https://github.com/mrtineu/MHD_API/archive/refs/tags/0.1.tar.gz
+Download-URL: https://github.com/mrtineu/MHD_API/archive/refs/tags/0.2.tar.gz
 Author: MrTinEU
 Author-email: mrtineu416@gmail.com
 License: MIT
